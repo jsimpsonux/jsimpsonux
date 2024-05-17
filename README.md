@@ -10,6 +10,13 @@ I'm a passionate junior front-end developer with a relentless thirst for knowled
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on Anything and everything!
 
+### Take a peek
+
+Ingredient Alchemy: ([https://jsimpsonux.github.io/Ingredient-Alchemy/])
+My Relaxing Planner: ([https://jsimpsonux.github.io/my-relaxing-planner/])
+Crypto-Mock: [https://resplendent-gumption-b3f3fe.netlify.app/] 
+
+
 ### Skills
 
 
