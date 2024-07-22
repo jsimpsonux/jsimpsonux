@@ -5,9 +5,9 @@ Front-end Developer // Interaction Designer
 -------------------------------------------
 
 I'm a passionate junior front-end developer with a relentless thirst for knowledge and love building user-friendly websites. When I'm not learning about new things, you'll find me with my nose buried in a history book or one of my go-to history YouTube channels, drawing inspiration from the past to shape the future.
-* 🌍  I'm based in United Kingdom (England)
+* 🌍  I'm based in the United Kingdom (England)
 * ✉️  You can contact me at [jsimpsonux@gmail.com](mailto:jsimpsonux@gmail.com)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm developing my knowledge in HTML, CSS, and JavaScript.
 * 🤝  I'm open to collaborating on Anything and everything!
 
 ### Take a peek
