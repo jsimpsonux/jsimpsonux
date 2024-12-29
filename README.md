@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jack Simpson
 ====================================================================================================================================
 
-Front-end Developer // Interaction Designer
+Front-end Developer // User Experience Designer
 -------------------------------------------
 
 I'm a passionate junior front-end developer with a relentless thirst for knowledge and love building user-friendly websites. When I'm not learning about new things, you'll find me with my nose buried in a history book or one of my go-to history YouTube channels, drawing inspiration from the past to shape the future.
